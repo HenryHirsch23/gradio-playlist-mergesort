@@ -1,4 +1,4 @@
-<img width="262" height="525" alt="image" src="https://github.com/user-attachments/assets/213ca53b-f197-424e-9808-9ee2aba1e535" /># gradio-playlist-mergesort
+# gradio-playlist-mergesort
 cisc 121 final, made by Henry Hirsch
 
 ## problem
